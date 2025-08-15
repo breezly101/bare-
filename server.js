@@ -1,4 +1,4 @@
-# Bare server for YouTube-ready Ultraviolet proxy
+// Bare server for YouTube-ready Ultraviolet proxy
 
 // server.js
 import { createServer } from "http";
